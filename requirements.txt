@@ -1,0 +1,28 @@
+# Core data manipulation and analysis
+numpy
+pandas
+scipy
+
+# Machine Learning frameworks
+scikit-learn
+tensorflow
+# pytorch  # Uncomment if you prefer PyTorch
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter and development tools
+jupyter
+ipython
+notebook
+
+# Additional utilities
+joblib
+xgboost
+lightgbm
+
+# Optional: Deep learning extras
+# keras  # Included in tensorflow
+# opencv-python
