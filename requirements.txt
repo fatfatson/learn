@@ -5,8 +5,9 @@ scipy
 
 # Machine Learning frameworks
 scikit-learn
-tensorflow
-# pytorch  # Uncomment if you prefer PyTorch
+# tensorflow  # Not compatible with Python 3.14 yet
+torch
+torchvision
 
 # Data visualization
 matplotlib
@@ -23,6 +24,12 @@ joblib
 xgboost
 lightgbm
 
-# Optional: Deep learning extras
-# keras  # Included in tensorflow
-# opencv-python
+# Text-to-Video generation
+diffusers
+transformers
+accelerate
+sentencepiece
+protobuf
+opencv-python-headless
+imageio
+imageio-ffmpeg
